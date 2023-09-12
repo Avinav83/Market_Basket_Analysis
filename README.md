@@ -1,2 +1,4 @@
 # Market_Basket_Analysis
-Data Visualization Project using Power BI with Kaggle Dataset.
+This project focuses on understanding customer behavior and purchase patterns through the analysis of transaction data. We employ the below steps: Data Collection, Data Cleaning, Data Transformation, Loading; and the application of DAX functions to calculate Support, Confidence, and Lift for all transactions.
+Market Basket Analysis is a powerful technique widely used in retail and e-commerce to uncover associations and relationships between products frequently purchased together. This project leverages Power BI's capabilities to extract insights from transaction data and calculate key metrics, such as Support, Confidence, and Lift, to inform strategic decisions.
+The calculated metrics will help you identify product associations, optimize product placements, and make data-driven decisions to enhance sales and customer experience.
